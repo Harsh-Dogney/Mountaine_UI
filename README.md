@@ -1,6 +1,6 @@
 # learn_ui
 
-A new Flutter project.
+Mountine UI: A Flutter app showcasing a collection of majestic mountains. The main page features 3 distinct mountains, each with an interactive button that navigates to a detailed page displaying a variety of stunning images for each mountain.
 
 ## Getting Started
 
